@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638422131961408174
-    m_Hash: 637256256
+      ticks: 638422922566946759
+    m_Hash: 3795501420
   m_LockFileStatus:
     m_FilePath: D:/Github-repo/My project/Unity/Racer/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638422131961438070
-    m_Hash: 1556878578
+      ticks: 638422922566996776
+    m_Hash: 285239041
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +22,58 @@ m_LocalPackages:
 m_ProjectPath: D:/Github-repo/My project/Unity/Racer/Packages
 m_EditorVersion: 2021.3.32f1 (3b9dae9532f5)
 m_ResolvedPackages:
+- packageId: com.unity.2d.sprite@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: D:\Github-repo\My project\Unity\Racer\Library\PackageCache\com.unity.2d.sprite@1.0.0
+  assetPath: Packages/com.unity.2d.sprite
+  name: com.unity.2d.sprite
+  displayName: 2D Sprite
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: Use Unity Sprite Editor Window to create and edit Sprite asset properties
+    like pivot, borders and Physics shape
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    verified: 1.0.0
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - sprite
+  - sprite editor window
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
 - packageId: com.unity.cinemachine@2.8.9
   testable: 0
   isDirectDependency: 1
@@ -362,7 +414,7 @@ m_ResolvedPackages:
     version: default
   resolvedDependencies:
   - name: com.unity.ide.visualstudio
-    version: 2.0.21
+    version: 2.0.22
   - name: com.unity.test-framework
     version: 1.1.33
   - name: com.unity.ext.nunit
@@ -501,12 +553,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 3.0.25
     nextVersion: 
-- packageId: com.unity.ide.visualstudio@2.0.21
+- packageId: com.unity.ide.visualstudio@2.0.22
   testable: 0
   isDirectDependency: 1
-  version: 2.0.21
+  version: 2.0.22
   source: 1
-  resolvedPath: D:\Github-repo\My project\Unity\Racer\Library\PackageCache\com.unity.ide.visualstudio@2.0.21
+  resolvedPath: D:\Github-repo\My project\Unity\Racer\Library\PackageCache\com.unity.ide.visualstudio@2.0.22
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -574,13 +626,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638300315250000000
+  datePublishedTicks: 638326061910000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.visualstudio@2.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-    revision: eb2b500b99f6429d3d9dcb8acbcbd366dfbb42be
+    revision: 700b44077345e97d37d464ff25507638983aed64
     path: 
   unityLifecycle:
     version: 2.0.21
